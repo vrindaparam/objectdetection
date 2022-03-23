@@ -1,5 +1,8 @@
+*__pycache__/
 .DS_Store
 .idea/
+myenv/
+deleted/
 */images/
 *.docx
 *.pdf

@@ -1,0 +1,104 @@
+item {
+  name: "U"
+  id: 1
+}
+item {
+  name: "P"
+  id: 2
+}
+item {
+  name: "K"
+  id: 3
+}
+item {
+  name: "W"
+  id: 4
+}
+item {
+  name: "J"
+  id: 5
+}
+item {
+  name: "M"
+  id: 6
+}
+item {
+  name: "N"
+  id: 7
+}
+item {
+  name: "X"
+  id: 8
+}
+item {
+  name: "S"
+  id: 9
+}
+item {
+  name: "D"
+  id: 10
+}
+item {
+  name: "Z"
+  id: 11
+}
+item {
+  name: "F"
+  id: 12
+}
+item {
+  name: "O"
+  id: 13
+}
+item {
+  name: "T"
+  id: 14
+}
+item {
+  name: "E"
+  id: 15
+}
+item {
+  name: "H"
+  id: 16
+}
+item {
+  name: "C"
+  id: 17
+}
+item {
+  name: "I"
+  id: 18
+}
+item {
+  name: "L"
+  id: 19
+}
+item {
+  name: "B"
+  id: 20
+}
+item {
+  name: "Q"
+  id: 21
+}
+item {
+  name: "V"
+  id: 22
+}
+item {
+  name: "G"
+  id: 23
+}
+item {
+  name: "Y"
+  id: 24
+}
+item {
+  name: "A"
+  id: 25
+}
+item {
+  name: "R"
+  id: 26
+}
